@@ -1,4 +1,89 @@
-   [{
+   
+      [
+  {
+    "name": "Server 001",
+    "type": "server",
+    "asset_tag": "A001",
+    "serial_number": "SN-001",
+    "manufacturer": "Dell",
+    "model": "PowerEdge R740",
+    "operating_system": "Windows Server 2019"
+  },
+  {
+    "name": "Desktop 001",
+    "type": "desktop",
+    "asset_tag": "A002",
+    "serial_number": "SN-002",
+    "manufacturer": "HP",
+    "model": "EliteDesk 800 G5",
+    "operating_system": "Windows 10 Pro"
+  },
+  
+  {
+    "name": "Server 002",
+    "type": "server",
+    "asset_tag": "A004",
+    "serial_number": "SN-004",
+    "manufacturer": "Dell",
+    "model": "PowerEdge R740",
+    "operating_system": "Windows Server 2016"
+  },
+  {
+    "name": "Desktop 002",
+    "type": "desktop",
+    "asset_tag": "A005",
+    "serial_number": "SN-005",
+    "manufacturer": "HP",
+    "model": "ProDesk 600 G6",
+    "operating_system": "Windows 10 Pro"
+  },
+  {
+    "name": "Laptop 002",
+    "type": "laptop",
+    "asset_tag": "A006",
+    "serial_number": "SN-006",
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad T14s",
+    "operating_system": "Windows 10 Pro"
+  },
+  {
+    "name": "Server 003",
+    "type": "server",
+    "asset_tag": "A007",
+    "serial_number": "SN-007",
+    "manufacturer": "Dell",
+    "model": "PowerEdge R740",
+    "operating_system": "Windows Server 2019"
+  },
+  {
+    "name": "Desktop 003",
+    "type": "desktop",
+    "asset_tag": "A008",
+    "serial_number": "SN-008",
+    "manufacturer": "HP",
+    "model": "EliteDesk 800 G5",
+    "operating_system": "Windows 10 Pro"
+  },
+  {
+    "name": "Laptop 003",
+    "type": "laptop",
+    "asset_tag": "A009",
+    "serial_number": "SN-009",
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad X1 Yoga",
+    "operating_system": "Windows 10 Pro"
+  },
+  {
+    "name": "Server 004",
+    "type": "server",
+    "asset_tag": "A010",
+    "serial_number": "SN-010",
+    "manufacturer": "Dell",
+    "model": "PowerEdge R740",
+    "operating_system": "Windows Server 2016"
+  },
+      
+      {
       "name": "Laptop 001",
       "asset_tag": "A001",
       "serial_number": "SN-001",
