@@ -1,0 +1,108 @@
+   [{
+      "name": "Laptop 001",
+      "asset_tag": "A001",
+      "serial_number": "SN-001",
+      "manufacturer": "Dell"
+    },
+    {
+      "name": "Laptop 002",
+      "asset_tag": "A002",
+      "serial_number": "SN-002",
+      "manufacturer": "HP"
+    },
+    {
+      "name": "Laptop 003",
+      "asset_tag": "A003",
+      "serial_number": "SN-003",
+      "manufacturer": "Lenovo"
+    },
+    {
+      "name": "Laptop 004",
+      "asset_tag": "A004",
+      "serial_number": "SN-004",
+      "manufacturer": "Apple"
+    },
+    {
+      "name": "Laptop 005",
+      "asset_tag": "A005",
+      "serial_number": "SN-005",
+      "manufacturer": "Asus"
+    },
+    {
+      "name": "Laptop 006",
+      "asset_tag": "A006",
+      "serial_number": "SN-006",
+      "manufacturer": "Acer"
+    },
+    {
+      "name": "Laptop 007",
+      "asset_tag": "A007",
+      "serial_number": "SN-007",
+      "manufacturer": "Microsoft"
+    },
+    {
+      "name": "Laptop 008",
+      "asset_tag": "A008",
+      "serial_number": "SN-008",
+      "manufacturer": "Dell"
+    },
+    {
+      "name": "Laptop 009",
+      "asset_tag": "A009",
+      "serial_number": "SN-009",
+      "manufacturer": "HP"
+    },
+    {
+      "name": "Laptop 010",
+      "asset_tag": "A010",
+      "serial_number": "SN-010",
+      "manufacturer": "Lenovo"
+    },
+    {
+      "name": "Laptop 011",
+      "asset_tag": "A011",
+      "serial_number": "SN-011",
+      "manufacturer": "Apple"
+    },
+    {
+      "name": "Laptop 012",
+      "asset_tag": "A012",
+      "serial_number": "SN-012",
+      "manufacturer": "Asus"
+    },
+    {
+      "name": "Laptop 013",
+      "asset_tag": "A013",
+      "serial_number": "SN-013",
+      "manufacturer": "Acer"
+    },
+    {
+      "name": "Laptop 014",
+      "asset_tag": "A014",
+      "serial_number": "SN-014",
+      "manufacturer": "Microsoft"
+    },
+    {
+      "name": "Laptop 015",
+      "asset_tag": "A015",
+      "serial_number": "SN-015",
+      "manufacturer": "Dell"
+    },
+    {
+      "name": "Laptop 016",
+      "asset_tag": "A016",
+      "serial_number": "SN-016",
+      "manufacturer": "HP"
+    },
+    {
+      "name": "Laptop 017",
+      "asset_tag": "A017",
+      "serial_number": "SN-017",
+      "manufacturer": "Lenovo"
+    },
+    {
+      "name": "Laptop 018",
+      "asset_tag": "A018",
+      "serial_number": "SN-018",
+      "manufacturer": "Apple"
+    }]
